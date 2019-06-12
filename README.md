@@ -3,12 +3,11 @@
 
 These notebooks contain training materials for scientific programmers of all levels.  
 
+They require **Python** 3.6, **Anaconda**, and (optional) **git** for use beyond web viewing.
+
 
 ## Download (Clone) Instructions:
 
-**Python versions:**
-
-These notebooks requires **Python** 3.6, **Anaconda**, and (optional) **git** for use beyond web viewing.
 
 To download:
 - Open terminal
