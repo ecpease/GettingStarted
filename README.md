@@ -16,9 +16,9 @@ To download:
 
 	`git clone https://github.com/ecpease/GettingStarted.git`
 
-**OR**
+	**OR**
 
-Click the green box on the top right of the home screen of the repository and click Download
+- Click the green box on the top right of the home screen of the repository and click Download
 
 To open a new Jupyter Notebook:
 - Open terminal
