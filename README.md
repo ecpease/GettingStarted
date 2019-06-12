@@ -1,4 +1,4 @@
-# GettingStarted, Training Materials on Python for Scientists
+# GettingStarted, A Repository of Training Materials in Python for Geoscientists
 ### Written by Emily Pease, Ameredev II
 
 These notebooks contain training materials for scientific programmers of all levels.  
