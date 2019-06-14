@@ -21,5 +21,16 @@ To download:
 
 To open a new Jupyter Notebook:
 - Open terminal
-- Navigate to your desired location from which to view/create notebooks
+- Navigate to your desired location from which to view/create notebooks (see below if you haven't done this before)
 - type `jupyter notebook` and after a few seconds you'll see a notebook open in your web browser
+
+Basic terminal commands to work with files and navigate:
+- `ls` - list directory (`dir` for Windows)
+- `cd [folder name]` - change directory
+- `cd ..` - go back a folder
+- `cd` - return to home directory
+- `rm [file]` - delete file
+- `rm -r [dir]` - delete directory
+- `mv file1 file2` - rename a file
+- `cp file1 file2` - copy file1 to file2
+
