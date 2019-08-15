@@ -46,3 +46,6 @@ Basic terminal commands to work with files and navigate:
 
 To run a Python script in the terminal:
 - `python scriptname.py`
+
+To stop running a Python script in the terminal:
+- CTRL + C
