@@ -24,6 +24,7 @@ To download a Python package:
 
 To open a new Jupyter Notebook:
 - Open terminal
+- Activate your conda environment with `conda activate environment` or `activate environment` if using Windows
 - Navigate to your desired location from which to view/create notebooks (see below if you haven't done this before)
 - type `jupyter notebook` and after a few seconds you'll see a notebook open in your web browser
 
@@ -32,7 +33,6 @@ Jupyter notebook shortcuts:
 - Click to the left and `a` to create a code block above the current block
 - Click to the left and `b` to create a code block below the current block
 - Click to the left and `m` to change the code block to a markdown block
-
 
 Basic terminal commands to work with files and navigate:
 - `ls` - list directory (`dir` for Windows)
@@ -44,3 +44,5 @@ Basic terminal commands to work with files and navigate:
 - `mv file1 file2` - rename a file
 - `cp file1 file2` - copy file1 to file2
 
+To run a Python script in the terminal:
+- `python scriptname.py`
